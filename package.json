@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@uni-ui/code-plugs": "^1.8.5",
+    "@uni-ui/code-ui": "^1.3.9",
+    "@uni-ui/nvue-canvas-plugs": "^1.0.0",
+    "uview-ui": "^2.0.34"
+  }
+}

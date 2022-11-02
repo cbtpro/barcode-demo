@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "示例",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "u-empty": "/node-modules/uview-ui/components/u-empty/u-empty",
+    "u-cell-group": "/node-modules/uview-ui/components/u-cell-group/u-cell-group",
+    "u-cell": "/node-modules/uview-ui/components/u-cell/u-cell",
+    "w-barcode": "/node-modules/@uni-ui/code-ui/components/w-barcode/index"
+  }
+}
